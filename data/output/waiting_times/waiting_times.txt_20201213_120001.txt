@@ -1,2 +1,0 @@
-random_segs;support;waiting_time
-0.1914491734320155;0.3197274773347165;6.0
