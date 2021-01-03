@@ -1,0 +1,200 @@
+token;symbol
+day;day
+daylight;day
+morning;day
+night;night
+midnight;night
+moonlight;night
+baby;love/tender
+dear;love/tender
+love;love/tender
+kiss;love/tender
+kisses;love/tender
+kissing;love/tender
+tender;love/tender
+loving;love/tender
+darling;love/tender
+romance;love/tender
+life;life
+live;life
+alive;life
+living;life
+money;money
+dollar;money
+bitch;bitch
+hoe;bitch
+slut;bitch
+whore;bitch
+nigga;nigga
+die;death
+dies;death
+death;death
+dead;death
+undead;death
+dying;death
+suicide;death
+deadly;death
+destruction;destruction
+destroy;destruction
+rage;destruction
+kill;killing
+killed;killing
+killing;killing
+assassin;killing
+murder;killing
+fire;fire
+burn;fire
+burning;fire
+hell;hell
+satan;hell
+demon;hell
+evil;hell
+devil;hell
+free;freedom
+freedom;freedom
+flying;freedom
+happy;sentiment
+happyness;sentiment
+heart;sentiment
+feel;sentiment
+feels;sentiment
+feeling;sentiment
+soul;sentiment
+pain;suffering
+suffer;suffering
+suffering;suffering
+hurt;suffering
+cry;suffering
+tear;suffering
+fear;suffering
+terror;suffering
+nightmare;suffering
+hurting;suffering
+strugle;suffering
+struggling;suffering
+hate;hate
+hating;hate
+hater;hate
+hates;hate
+hateful;hate
+lord;God/Christ
+jesus;God/Christ
+christ;God/Christ
+god;God/Christ
+hallelujah;God/Christ
+time;time references
+year;time references
+month;time references
+minute;time references
+today;time references
+yesterday;time references
+tomorrow;time references
+summer;time references
+winter;time references
+autumn;time references
+everyday;time references
+someday;time references
+sunset;time references
+sunshine;time references
+friday;time references
+saturday;time references
+people;people
+aunt;people
+person;people
+brother;people
+girl;people
+boy;people
+child;people
+man;people
+men;people
+woman;people
+women;people
+mankind;people
+friend;people
+mother;people
+mama;people
+father;people
+wife;people
+girlfried;people
+fans;people
+asphalt;city
+bank;city
+city;city
+building;city
+park;city
+police;city
+town;city
+chicago;city
+astro;nature
+moon;nature
+sun;nature
+sky;nature
+bacteria;nature
+flower;nature
+mountain;nature
+universe;nature
+ass;part of body
+hand;part of body
+head;part of body
+arm;part of body
+eye;part of body
+face;part of body
+body;part of body
+hair;part of body
+bones;part of body
+nose;part of body
+ears;part of body
+stomach;part of body
+war;war/weapons
+soldier;war/weapons
+warfare;war/weapons
+battle;war/weapons
+ally;war/weapons
+allied;war/weapons
+gun;war/weapons
+knife;war/weapons
+pistol;war/weapons
+blade;war/weapons
+bandit;crime
+shot;crime
+shoot;crime
+criminal;crime
+stab;crime
+barcelona;cities
+london;cities
+california;cities
+america;cities
+shit;bad words
+fuck;bad words
+fucking;bad words
+motherfucker;bad words
+motherfucking;bad words
+bullshit;bad words
+faggot;bad words
+asshole;bad words
+fucked;bad words
+insane;insane
+crazy;insane
+madness;insane
+psycho;insane
+mad;insane
+authority;authority/power
+king;authority/power
+queen;authority/power
+power;authority/power
+crown;authority/power
+sir;authority/power
+weed;weed/drugs/booze
+marijuana;weed/drugs/booze
+cocaine;weed/drugs/booze
+drunk;weed/drugs/booze
+darkness;darkness
+dark;darkness
+dream;dream
+dreaming;dream
+hood;the hood
+gang;the hood
+ghetto;the hood
+gangster;the hood
+sex;sex
+sexy;sex
